@@ -11,6 +11,8 @@ the `pkg` npm package to create the binaries.
 
 To generate the binaries download the source code and go into the project directory and call `pkg .`.
 
+**It is recommended that you make the bot a mod to increase message limit**
+
 ## Downloading the bot
 
 https://github.com/arturotorresc/simonsaysbot/releases
