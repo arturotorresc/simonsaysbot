@@ -1,0 +1,20 @@
+# The list of channels to connect to.
+channels = ["myChannelName"]
+
+# The list of polls to display to users.
+polls = [
+  { title = "¿Que quieren que haga?", answers = [
+    "No uses escudos", 
+    "No uses la lampara"
+  ] }, { title = "¿Suelto la shotgun?", answers = [
+    "Sí",
+    "No"
+  ] }, { title = "¿Puedo usar pistolas?", answers = [
+    "Sí",
+    "No"
+  ] },
+]
+
+# Default duration of a poll in seconds
+defaultDuration = 300
+
