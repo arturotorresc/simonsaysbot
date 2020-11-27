@@ -13,7 +13,7 @@ To generate the binaries download the source code and go into the project direct
 
 ## Downloading the bot
 
-[Link here]
+https://github.com/arturotorresc/simonsaysbot/releases
 
 ## Config file
 
