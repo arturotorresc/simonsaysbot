@@ -45,7 +45,7 @@ _For 5 minute polls_
 The main command is `!simonsays` but it can also be called with `!simondice` since this is a bot
 for spanish-speaking streamers.
 
-### !simonsays go\*
+### !simonsays go
 
 **Can only be called by the mods or the broadcaster.**
 The bot will take a random poll from the list of polls defined in the .toml file and display it to users.
