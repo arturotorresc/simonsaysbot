@@ -1,7 +1,11 @@
 import dotenv from "dotenv";
+import path from "path";
 import { Client } from "./lib/Client";
 import { SimonSaysConfig } from "./lib/SimonSaysConfig";
-dotenv.config();
+const dotenvAbsolutePath = path.join(__dirname, "../.env");
+dotenv.config({
+  path: dotenvAbsolutePath,
+});
 
 const config = new SimonSaysConfig();
 const opts = {

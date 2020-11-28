@@ -25,6 +25,9 @@
   "pkg": {
     "scripts": [
       "dist/**/*.js"
+    ],
+    "assets": [
+      ".env"
     ]
   }
 }
