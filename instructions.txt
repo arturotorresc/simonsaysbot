@@ -1,0 +1,15 @@
+Para correr el bot es necesario que se tenga un archivo de configuración en el directorio
+home correspondiente de tu sistema operativo.
+
+Ejemplo, si usas windows tu directorio home probablemente es:
+
+C:\Users\<My Windows Username>\
+
+Y el archivo tiene que existir así:
+C:\Users\<My Windows Username>\simonsaysbot\config.toml
+
+El archivo config.toml tiene que estar dentro del folder simonsaysbot y ese folder tiene que estar dentro del directorio home, justo como aparece en el ejemplo de arriba.
+
+El contenido del archivo config.toml es parecido al que viene en example.config.toml. Puedes copiar ese archivo y modificarlo a tu gusto.
+
+Los comandos disponibles están en el README.md en la sección de COMMANDS
